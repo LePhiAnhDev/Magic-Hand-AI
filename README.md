@@ -1,12 +1,16 @@
 ## Introduction
 AI Hand Controller uses Computer Vision to recognize hand gestures and control various functions on your computer. The application can control system volume and YouTube video playback speed through hand gestures via webcam.
 
+---
+
 ## Requirements
 - Python 3.10.11 or higher
 - Device with Webcam support, if you don't have one you can use Iriun Webcam to use your phone as a Webcam.
 - Run the command to install the necessary libraries: ```pip install opencv-python mediapipe numpy pyautogui pyfiglet colorama termcolor pycaw comtypes selenium webdriver-manager```
 
 - Run the command to install browser drivers: ```playwright install```
+
+---
 
 ## Usage Guide
 1. **Launch the application**: ```python Magic_Hand_AI.py```
@@ -19,6 +23,8 @@ AI Hand Controller uses Computer Vision to recognize hand gestures and control v
    - **Increase distance between thumb and index finger** → **Increase playback speed**
    - **Decrease distance between thumb and index finger** → **Decrease playback speed**
 4. **Exit application**: Press **ESC** key
+   
+---
 
 ## Features
 - Control system volume by the distance between both hands
@@ -26,8 +32,12 @@ AI Hand Controller uses Computer Vision to recognize hand gestures and control v
 - Direct integration with browsers (Chrome or Brave)
 - Visual display with volume and speed bars
 
+---
+
 ## Author
 ### Lê Phi Anh
+
+---
 
 ## Contact for Work
 - Discord: LePhiAnhDev  
