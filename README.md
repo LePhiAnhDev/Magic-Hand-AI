@@ -27,7 +27,7 @@ AI Hand Controller uses Computer Vision to recognize hand gestures and control v
 - Visual display with volume and speed bars
 
 ## Author
-**Lê Phi Anh**  
+*Lê Phi Anh*  
 
 ## Contact for Work
 - Discord: LePhiAnhDev  
