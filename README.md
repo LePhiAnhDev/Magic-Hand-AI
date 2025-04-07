@@ -5,7 +5,7 @@ AI Hand Controller uses Computer Vision to recognize hand gestures and control v
 - Python 3.10.11 or higher
 - Device with Webcam support, if you don't have one you can use Iriun Webcam to use your phone as a Webcam.
 - Run the command to install the necessary libraries: ```pip install opencv-python mediapipe numpy pyautogui pyfiglet colorama termcolor pycaw comtypes selenium webdriver-manager```
-```
+
 - Run the command to install browser drivers: ```playwright install```
 
 ## Usage Guide
